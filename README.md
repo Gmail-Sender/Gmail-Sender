@@ -1,2 +1,2 @@
 # Gmail-Sender
-A ChatGPT plugin for sending Gmails
+A ChatGPT plugin for sending via Gmail.
